@@ -1,5 +1,5 @@
 package my.application;
-//classe scritinatore
+//classe scrutinatore
 public class Scrutinatore {
 
 }
